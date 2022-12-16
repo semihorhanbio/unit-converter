@@ -1,13 +1,13 @@
-# cz9aPNSr
+This is one of the solo projects required to finish Scrimba Frontend Career Path.
 
-Quick start:
+## Technologies used
 
-```
-$ npm install
-$ npm start
-````
+HTML, CSS and JavaScript
 
-Head over to https://vitejs.dev/ to learn more about using vite
+## Live
+
+https://semihorhanbio.github.io/unit-converter/
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
